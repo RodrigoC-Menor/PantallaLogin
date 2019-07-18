@@ -1,0 +1,34 @@
+<html>
+<head>
+
+<title>sistema de login</title>
+</head><body><fieldset>
+<legend><img width="120" height="118" alt="fija" src="file:///C:/Users/RODRIGO%20CARRERA/Documents/PDMU/PDMU.png"> &nbsp;  
+<h2> PENTATHLON DEPORTIVO MILITARIZADO UNIVERSITARIO </h2> </legend>
+                                                
+                                
+<h3> ¡BIENVENIDO!</h3> 
+<br>
+         
+<h3> INGRESE A SU CUENTA  </h3>
+
+<br>
+
+<label> MATRICULA </label>
+<form>
+<input type="Usuario" "="">
+</form>
+<label> CONTRASEÑA </label>
+<form> 
+<input type="Password"> 
+</form>
+
+<button>
+<h2> ENTRAR </h2>
+</button> 
+	
+	
+
+</fieldset>
+</body>
+</html>
